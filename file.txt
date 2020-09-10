@@ -1,1 +1,2 @@
 Hello world, this is for git testing
+THis is new line
